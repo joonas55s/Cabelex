@@ -28,6 +28,7 @@
         <li><a href="#instalacao">Intalação</a></li>
       </ul>
     </li>
+    <li><a href="#Utilização">Utilização</a></li>
     <li><a href="#autor">Autor</a></li>
   </ol>
 </details>
@@ -120,6 +121,9 @@ OU
    ```
 
  ---
+ ### Utilização
+ * E-mail Carlos@gmail.com
+ * Senha 8995544
  ### ✨Autor
 
 [Jonas de Souza Beserra](https://www.linkedin.com/in/jonas-de-souza-95091b186/)<br/>
